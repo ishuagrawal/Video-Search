@@ -1,0 +1,18 @@
+﻿  Main.cpp
+C:\Users\louis\CSCI576\FinalProject\VideoSearch\Main.cpp(103,54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\louis\CSCI576\FinalProject\VideoSearch\Main.cpp(151,91): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\louis\CSCI576\FinalProject\VideoSearch\Main.cpp(151,69): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Generating code
+  3 of 659 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  VideoSearch.vcxproj -> C:\Users\louis\CSCI576\FinalProject\VideoSearch\x64\Release\VideoSearch.exe
